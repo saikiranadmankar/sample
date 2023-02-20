@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2 stype="colour: red">Hello team..</h2>
-  <h1>This is <b>Ansible</b> integration with <i>Docker</i></h1>
+<h2 stype="colour: red">good morning.</h2>
+  <h1>This is <b>docker</b> integration with <i>ansible</i></h1>
 </body>
 </html>
